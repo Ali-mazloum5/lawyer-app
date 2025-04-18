@@ -1,0 +1,6 @@
+*.log
+*.lock
+.DS_Store
+pubspec.lock
+firebase_options.dart
+google-services.json
